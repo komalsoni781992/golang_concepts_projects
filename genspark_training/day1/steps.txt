@@ -1,0 +1,14 @@
+Install go windows .msi 
+
+go version
+go env
+go mod init modulename
+go mod init github.com/komalsoni781992/modulename
+
+create a folder
+open in Vscode
+install go extension
+view -> command pallete -> go install tools (install everything)
+
+Install code runner in VS code
+
